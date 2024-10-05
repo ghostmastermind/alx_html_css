@@ -1,0 +1,1 @@
+Building a web page the right way, is not easy - except if you put in place strong foundations:
